@@ -7,6 +7,6 @@
 <title>CXF RESTFul Service Tutorial by LessonsLab.com</title>
 </head>
 <body>
-WelCome to the CXF RESTful service tutorial by LessonsLab.com. Hello clictest !!!
+WelCome to the CXF RESTful service tutorial by LessonsLab.com. Hello clictest from AWS docker  !!!
 </body>
 </html>
