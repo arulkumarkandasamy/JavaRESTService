@@ -37,7 +37,7 @@
 					<username>arul</username>
 					<password>arul123</password>
 				</configuration>
-			</plugin>
+			</plugin> 
 			
 		</plugins>
 	</build>
