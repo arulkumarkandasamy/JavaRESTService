@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<name>CxfRestService</name>
 	<description>Example of Cxf Based Rest Service</description>
-	<build>
+	<build> 
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
 			<plugin>
