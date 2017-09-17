@@ -84,7 +84,7 @@
 			<artifactId>cxf-rt-frontend-jaxrs</artifactId>
 			<version>2.7.13</version>
 		</dependency>	
-		<!-- Jackson The JSON Producer dependency -->	
+		<!-- Jackson The JSON Producer dependency  test-->	
 		<dependency>
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-jaxrs</artifactId>
